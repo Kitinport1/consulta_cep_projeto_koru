@@ -1,13 +1,20 @@
 {
-  "name": "temperatura",
+  "name": "consulta_cep_projeto_koru",
   "version": "1.0.0",
-  "description": "",
+  "description": "Construir uma ferramenta simples de linha de comando (CLI) usando Node.js que consulta informações de endereço a partir de um CEP, consumindo a API pública [ViaCEP](https://viacep.com.br).",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sowza82/consulta_cep_projeto_koru.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module"
+  "bugs": {
+    "url": "https://github.com/Sowza82/consulta_cep_projeto_koru/issues"
+  },
+  "homepage": "https://github.com/Sowza82/consulta_cep_projeto_koru#readme"
 }
